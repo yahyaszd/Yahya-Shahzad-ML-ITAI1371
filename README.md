@@ -1,11 +1,11 @@
-# 🌟 Machine Learning Portfolio (ITAI1371) 🌟
+# Machine Learning Portfolio (ITAI1371) 
 **By: Yahya Shahzad**
 
 Welcome to my Machine Learning portfolio! This repository serves as a comprehensive record of my journey through the **ITAI1371 Machine Learning** course. Here, you will find a curated collection of lab exercises, hands-on projects, and my final course assignment. 
 
 ---
 
-## 🙋‍♂️ About Me & My ML Journey
+## About Me & My ML Journey
 
 I'm **Yahya Shahzad**, a passionate student exploring the field of artificial intelligence. I am highly interested in machine learning because of its incredible potential to solve complex real-world problems and automate decision-making processes. 
 
@@ -61,13 +61,5 @@ Below is an indexed list of the labs and assignments I have successfully complet
 | :---: | :--- | :--- | :--- |
 | **Final** | Hotel Reviews Analysis | An end-to-end pipeline implementing text preprocessing, EDA, extensive hyperparameter tuning, and model selection on complex real-world review data. | [📁 View Assignment](./Assignments/Final%20project) |
 
----
 
-## 🛠️ Tech Stack & Libraries
-The projects within this portfolio predominantly utilize **Python** within **Jupyter Notebooks**, leveraging industry-standard libraries:
-* **Data Manipulation & Math:** `pandas`, `numpy`
-* **Visualization:** `matplotlib`, `seaborn`
-* **Machine Learning:** `scikit-learn`
 
----
-*Thank you for taking the time to review my portfolio!*
