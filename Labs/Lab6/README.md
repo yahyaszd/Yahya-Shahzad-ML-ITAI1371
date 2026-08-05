@@ -1,10 +1,10 @@
-# Machine Learning Workflow and Types of Learning
+# Regression and Classification Models
 
 ## What I Did
-In this lab, I completed hands-on exercises focused on Machine Learning Workflow and Types of Learning. I navigated through a Jupyter Notebook where I ran and modified code to explore different machine learning techniques, and applied them to practical scenarios.
+In this lab, I completed hands-on exercises focused on Regression and Classification Models. I navigated through a Jupyter Notebook where I ran and modified code to explore different machine learning techniques, and applied them to practical scenarios.
 
 ## What I Learned
-- **Core Concepts:** I gained a solid theoretical and practical understanding of Machine Learning Workflow and Types of Learning.
+- **Core Concepts:** I gained a solid theoretical and practical understanding of Regression and Classification Models.
 - **Implementation:** I improved my ability to use Python libraries such as pandas, matplotlib, and scikit-learn to execute these concepts.
 - **Analysis:** I learned how to critically analyze the results of the algorithms and techniques applied.
 
